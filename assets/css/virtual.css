@@ -576,6 +576,17 @@ a:hover, a:active {
     padding: 14px 10px;
 }
 
+.right_contact h3, .right_contact p {
+  display: inline;
+  color: #000;
+  font-size: 20px;
+}
+.footer_center {
+    display: flex;
+    justify-content: left;
+}
+
+
 @media (min-width: 576px) {
     .navbar-expand-sm .navbar-nav .nav-link {
         padding-left: 12px;
